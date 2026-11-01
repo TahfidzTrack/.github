@@ -18,20 +18,34 @@
 
 --- 
 
+## Tentang
+
+TahfidzTrack dikembangkan untuk mendukung aktivitas tahfidz di **SMPIT Ibnul Qayyim Makassar**.
+
+Platform ini membantu pencatatan setoran hafalan, pemantauan progres santri, pengelolaan halaqah, pelaporan, dan berbagai kebutuhan administrasi tahfidz dalam satu sistem yang terintegrasi.
+
+---
+
 ## Visi 
 
 Menjadi platform manajemen tahfidz yang modern, mudah digunakan, dan relevan untuk kebutuhan pembelajaran Al-Qur'an masa kini. 
 
 ## Misi 
 
-- Mempermudah pencatatan setoran hafalan 
-- Menyediakan pemantauan progres yang jelas
-- Membantu komunikasi antara musyrif dan wali santri
-- Menyederhanakan administrasi tahfidz 
+<p><img src="../src/icon-check.svg" width="13" height="13">⠀Mempermudah pencatatan setoran hafalan</p> 
+<p><img src="../src/icon-check.svg" width="13" height="13">⠀Menyediakan pemantauan progres yang jelas</p> 
+<p><img src="../src/icon-check.svg" width="13" height="13">⠀Membantu komunikasi antara musyrif dan wali santri</p> 
+<p><img src="../src/icon-check.svg" width="13" height="13">⠀Menyederhanakan administrasi tahfidz</p> 
+
+---
 
 ## Dokumentasi
 
-Untuk dokumentasi penuh, kunjungi [Dokumentasi TahfidzTrack](https://github.com/TahfidzTrack/docs)
+Dokumentasi, glossary istilah tahfidz, FAQ, dan changelog tersedia di:
+
+<a href="https://github.com/TahfidzTrack/docs" target="_blank">
+  <img src="../src/icon-link.svg" width="13" height="13">⠀https://github.com/TahfidzTrack/docs
+</a>
 
 ---
 
