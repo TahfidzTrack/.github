@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/status-active-success">
-  <img alt="Static Badge" src="https://img.shields.io/badge/stage-pre--release-blue">
-  <img alt="Static Badge" src="https://img.shields.io/badge/release-pre--release-orange">
+  <img alt="Status" src="https://img.shields.io/badge/status-active-success">
+  <img alt="Stage" src="https://img.shields.io/badge/stage-pre--release-blue">
+  <img alt="Release" src="https://img.shields.io/badge/release-pre--release-orange">
 </p>
 
 --- 
