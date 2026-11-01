@@ -41,7 +41,7 @@ Menjadi platform manajemen tahfidz yang modern, mudah digunakan, dan relevan unt
 
 ## Dokumentasi
 
-Dokumentasi, glossary istilah tahfidz, FAQ, dan changelog tersedia di:
+Dokumentasi, FAQ, dan changelog tersedia di:
 
 <a href="https://github.com/TahfidzTrack/docs" target="_blank">
   <img src="../src/icon-link.svg" width="13" height="13">⠀https://github.com/TahfidzTrack/docs
