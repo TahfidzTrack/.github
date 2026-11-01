@@ -35,4 +35,7 @@ Untuk dokumentasi penuh, kunjungi [Dokumentasi TahfidzTrack](https://github.com/
 
 ---
 
-**TahfidzTrack** by **SNYX**
+<p align="center">
+  © <b>TahfidzTrack</b> by <b>SNYX</b>
+</p>
+
