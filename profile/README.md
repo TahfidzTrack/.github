@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://tahfidztrack.vercel.app" target="_blank">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="src/logo-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="src/logo-dark.svg">
-      <img alt="TahfidzTrack" src="src/logo-light.svg" height="125">
+      <source media="(prefers-color-scheme: dark)" srcset="../src/logo-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="../src/logo-dark.svg">
+      <img alt="TahfidzTrack" src="../src/logo-light.svg" height="125">
     </picture>
   </a>
   <br>
