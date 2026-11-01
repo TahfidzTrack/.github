@@ -3,13 +3,11 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="src/logo-light.svg">
       <source media="(prefers-color-scheme: light)" srcset="src/logo-dark.svg">
-      <img alt="TahfidzTrack" src="src/logo-light.svg" height="70">
+      <img alt="TahfidzTrack" src="src/logo-light.svg" height="125">
     </picture>
   </a>
-</p>
-
-<p align="center">
-  Membangun ekosistem digital tahfidz yang terukur, terdokumentasi, dan mudah dipantau. 
+  <br>
+  Membangun ekosistem digital tahfidz yang terukur, terdokumentasi, dan mudah dipantau.  
 </p>
 
 <p align="center">
