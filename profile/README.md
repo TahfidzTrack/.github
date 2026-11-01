@@ -35,4 +35,4 @@ Untuk dokumentasi penuh, kunjungi [Dokumentasi TahfidzTrack](https://github.com/
 
 ---
 
-Selamat datang di organisasi TahfidzTrack.
+**TahfidzTrack** by **SNYX**
